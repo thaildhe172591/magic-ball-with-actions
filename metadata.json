@@ -1,0 +1,7 @@
+{
+  "name": "Hand-Controlled Gravity Sphere",
+  "description": "A computer vision interactive demo where you control a physics-based sphere using hand gestures. Pinch to move, open hand to explode, and close fist to merge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
